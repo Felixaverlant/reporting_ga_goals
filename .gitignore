@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+config.ini
+client_secret.json
+analyticsreporting.dat
+
+.DS_Store
